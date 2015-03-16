@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sindresorhus/object-assign": "^2.0.0"
+  }
+}
